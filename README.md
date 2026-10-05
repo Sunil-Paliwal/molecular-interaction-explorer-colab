@@ -28,7 +28,7 @@ Students often find it hard to tell which non-covalent interaction two molecules
 
 ## Quick start
 
-1. **Open the notebook.** Click the *Open in Colab* badge above and sign in with a Google account.
+1. **Open the notebook.** [Click here to open the notebook in Google Colab](https://colab.research.google.com/github/Sunil-Paliwal/molecular-interaction-explorer-colab/blob/main/Molecular_Interaction_Explorer_Colab.ipynb) and sign in with a Google account.
 2. **Run the cells in order.** Cell 1 installs RDKit (about 30 seconds). Cell 2 loads the tool and shows two input boxes.
 3. **Analyze a pair.** Enter a SMILES string in each box and click **Analyze Interaction**. Try the examples in the table above.
 
